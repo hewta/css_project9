@@ -4,7 +4,7 @@
     - Learned about selectors.
 ***
 ## Time taken to finish the project
-- 6 hours.
+- 6 hours
 ***
 ## Screenshot
 ![No image found]("images\Logo.png")
